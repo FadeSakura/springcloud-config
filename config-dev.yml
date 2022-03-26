@@ -2,5 +2,5 @@ spring:
   application:
     name: cloud-config-client
     
-name: tom  
+name: lina  
 age: 18
