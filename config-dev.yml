@@ -3,3 +3,4 @@ spring:
     name: cloud-config-client
     
 name: tom  
+age: 18
