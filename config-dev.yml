@@ -1,5 +1,5 @@
 spring:
   application:
-  info: clientTest
     name: cloud-config-client
-  
+    
+name: tom  
